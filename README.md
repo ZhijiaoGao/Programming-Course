@@ -1,4 +1,4 @@
-# Random Dot Motion Experiment
+# Random Dot Motion Experiment Modification
 
 ## Description
 This repository contains HW 7: A modified version of our in-class experiment.
