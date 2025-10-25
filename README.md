@@ -1,13 +1,11 @@
 # Random Dot Motion Experiment
 
 ## Description
-This repository contains a Psychopy experiment where participants respond to moving dot stimuli.
+This repository contains HW 7: A modified version of our in-class experiment.
 
 ## Modifications
-- Added difficulty selection in the dialog box
-- Added trial progress counter
-- Added feedback ("Correct"/"Wrong") after each trial
+- Added difficulty selection (easy vs hard) in the dialog box in the beginning, corresponding to different coherence levels.
+- Added feedback ("Correct(Green)"/"Wrong(Red)") after each trial (I know typically we do not give them feedbacks during the experiment, but I think this can be an interesting modification.)
 
 ## How to Run
-1. Install Psychopy
-2. Run `experiment.py` in Python 3
+Run `DotStim.py` in Psychopy.
