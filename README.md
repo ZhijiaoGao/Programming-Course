@@ -8,4 +8,4 @@ This repository contains HW 7: A modified version of our in-class experiment.
 - Added feedback ("Correct(Green)"/"Wrong(Red)") after each trial (I know typically we do not give them feedbacks during the experiment, but I think this can be an interesting modification.)
 
 ## How to Run
-Run `DotStim.py` in Psychopy.
+Run `DotStim_hw.py` in Psychopy.
